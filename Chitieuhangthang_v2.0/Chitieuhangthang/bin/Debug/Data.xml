@@ -1,0 +1,23 @@
+<chitieuhangngay>
+  <ngay date="10/18/2021" id="1" count="" weekday="" day="Monday" month="18" year="10">
+    <sanpham>Táo</sanpham>
+    <giamua>20.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>1.500.000</trocap>
+    <tietkiem>50.000</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="2" count="" weekday="" day="Monday" month="18" year="10">
+    <sanpham>Vải</sanpham>
+    <giamua>40.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="3" count="" weekday="" day="Monday" month="18" year="10">
+    <sanpham>Sầu Riêng</sanpham>
+    <giamua>150.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+</chitieuhangngay>
