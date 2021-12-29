@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chitieuhangngay>
+  <id>0</id>
+  <ngay date="10/18/2021" id="1" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Táo</sanpham>
+    <giamua>20.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>1.500.000</trocap>
+    <tietkiem>100.000</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="2" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Chuối</sanpham>
+    <giamua>30.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="3" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Sách</sanpham>
+    <giamua>30.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/19/2021" id="4" count="" weekday="Tuesday" day="19" month="10" year="2021">
+    <sanpham>Usb</sanpham>
+    <giamua>70.000</giamua>
+    <detailGiamua>+20.000+50.000</detailGiamua>
+    <sl>2</sl>
+    <moneyPerOne>35.000</moneyPerOne>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+</chitieuhangngay>

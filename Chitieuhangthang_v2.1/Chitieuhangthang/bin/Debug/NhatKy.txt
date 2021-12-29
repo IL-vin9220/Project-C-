@@ -1,0 +1,6 @@
+﻿[Nhập - 10/18/2021 : 3:50:14 PM ,id = 1]  Sản phẩm: Táo -- Giá mua: 20.000 -- Thời điểm: Buổi Chiều -- Trợ cấp: 1.500.000 -- Tiết kiệm: 100.000
+[Nhập - 10/18/2021 : 3:50:14 PM ,id = 2]  Sản phẩm: Chuối -- Giá mua: 30.000 -- Thời điểm: Buổi Chiều -- Trợ cấp: 0 -- Tiết kiệm: 0
+[Update - Thông tin hôm nay 10/18/2021 : 3:50:43 PM ,id = 1]  100.000 --> 50000
+[Nhập - 10/18/2021 : 4:03:06 PM ,id = 3]  Sản phẩm: Sách -- Giá mua: 30.000 -- Thời điểm: Buổi Chiều -- Trợ cấp: 0 -- Tiết kiệm: 0
+[Update - Thông tin hôm nay 10/18/2021 : 4:03:16 PM ,id = 1]  50.000 --> 100000
+[Nhập - 10/19/2021 : 11:11:43 AM ,id = 4]  Sản phẩm: Usb -- Giá mua: 70.000 -- Thời điểm: Buổi Sáng -- Trợ cấp: 0 -- Tiết kiệm: 0
