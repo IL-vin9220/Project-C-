@@ -1,0 +1,360 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<chitieuhangngay>
+  <ngay date="10/17/2021" id="1" count="" weekday="Sunday" day="17" month="10" year="2021">
+    <sanpham>Bánh Cuốn</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/17/2021" id="2" count="" weekday="Sunday" day="17" month="10" year="2021">
+    <sanpham>Nấm Kim</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/17/2021" id="3" count="" weekday="Sunday" day="17" month="10" year="2021">
+    <sanpham>Trứng Vịt (3)</sanpham>
+    <giamua>9.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/17/2021" id="4" count="" weekday="Sunday" day="17" month="10" year="2021">
+    <sanpham>Bvs(2)</sanpham>
+    <giamua>40.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="5" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Test Nhanh</sanpham>
+    <giamua>140.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>1.500.000</trocap>
+    <tietkiem>100.000</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="6" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Taxi</sanpham>
+    <giamua>500.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="7" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Váy Bò</sanpham>
+    <giamua>133.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="8" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Dán Tường</sanpham>
+    <giamua>140.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="9" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Xôi Trứng</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="10" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Milo</sanpham>
+    <giamua>8.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/15/2021" id="11" count="" weekday="Friday" day="15" month="10" year="2021">
+    <sanpham>Đề Cương Lý</sanpham>
+    <giamua>7.000</giamua>
+    <thoidiem>Cả Ngày</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/16/2021" id="12" count="" weekday="Saturday" day="16" month="10" year="2021">
+    <sanpham>Đổi Nước</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="13" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Trà Sữa( 4)</sanpham>
+    <giamua>140.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="14" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Bánh Tráng(2)</sanpham>
+    <giamua>0</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/19/2021" id="15" count="" weekday="Tuesday" day="19" month="10" year="2021">
+    <sanpham>Bún Bò</sanpham>
+    <giamua>25.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/19/2021" id="16" count="" weekday="Tuesday" day="19" month="10" year="2021">
+    <sanpham>Đề Cương</sanpham>
+    <giamua>16.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/19/2021" id="17" count="" weekday="Tuesday" day="19" month="10" year="2021">
+    <sanpham>Trà Đào Bốn Mùa</sanpham>
+    <giamua>25.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/20/2021" id="18" count="" weekday="Wednesday" day="20" month="10" year="2021">
+    <sanpham>Pate Xúc Xích</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>1.000.000</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/20/2021" id="19" count="" weekday="Wednesday" day="20" month="10" year="2021">
+    <sanpham>Gà Kfc B</sanpham>
+    <giamua>89.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="20" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Ngũ Cốc</sanpham>
+    <giamua>50.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="21" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Bánh Mì</sanpham>
+    <giamua>15.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="22" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Sữa Ông Thọ</sanpham>
+    <giamua>28.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="23" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Xà Phòng Tắm</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="24" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Xúc Xích</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="25" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Trứng (2)</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="26" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Giá Đỗ</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="27" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Cà Chua</sanpham>
+    <giamua>2.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/22/2021" id="28" count="" weekday="Friday" day="22" month="10" year="2021">
+    <sanpham>Keo 205</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/21/2021" id="29" count="" weekday="Thursday" day="21" month="10" year="2021">
+    <sanpham>Nạp Tiền Đt</sanpham>
+    <giamua>60.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/24/2021" id="30" count="" weekday="Sunday" day="24" month="10" year="2021">
+    <sanpham>Thịt</sanpham>
+    <giamua>25.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/24/2021" id="31" count="" weekday="Sunday" day="24" month="10" year="2021">
+    <sanpham>Khoai Tây</sanpham>
+    <giamua>12.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/24/2021" id="32" count="" weekday="Sunday" day="24" month="10" year="2021">
+    <sanpham>Bánh Cuốn</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="33" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Bánh Mì Kẹp Trứng Xúc Xích</sanpham>
+    <giamua>15.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="34" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Thảm Xanh</sanpham>
+    <giamua>263.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="35" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Thảm Lau Chân</sanpham>
+    <giamua>159.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="36" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Rèm Cửa</sanpham>
+    <giamua>87.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="37" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Áo Khoác Nâu</sanpham>
+    <giamua>150.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/26/2021" id="38" count="" weekday="Tuesday" day="26" month="10" year="2021">
+    <sanpham>Xôi Thịt</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/27/2021" id="39" count="" weekday="Wednesday" day="27" month="10" year="2021">
+    <sanpham>Bánh Cuốn</sanpham>
+    <giamua>5.000</giamua>
+    <thoidiem>Buổi Sáng</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/27/2021" id="40" count="" weekday="Wednesday" day="27" month="10" year="2021">
+    <sanpham>Cơm Hộp</sanpham>
+    <giamua>20.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/18/2021" id="41" count="" weekday="Monday" day="18" month="10" year="2021">
+    <sanpham>Chuối</sanpham>
+    <giamua>30.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>1.500.000</trocap>
+    <tietkiem>200.000</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="42" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Chuột Không Dây</sanpham>
+    <giamua>20.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="43" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Sách Giáo Trình</sanpham>
+    <giamua>108.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="44" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Bút Chì</sanpham>
+    <giamua>25.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="45" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Tẩy</sanpham>
+    <giamua>10.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="46" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Thước</sanpham>
+    <giamua>8.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/25/2021" id="47" count="" weekday="Monday" day="25" month="10" year="2021">
+    <sanpham>Compa</sanpham>
+    <giamua>12.000</giamua>
+    <thoidiem>Buổi Chiều</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="48" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Bút Đèn Ghi</sanpham>
+    <giamua>30.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="49" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Ổ Cứng Hdd</sanpham>
+    <giamua>1.000.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="50" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Headphone</sanpham>
+    <giamua>40.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+  <ngay date="10/28/2021" id="51" count="" weekday="Thursday" day="28" month="10" year="2021">
+    <sanpham>Pin</sanpham>
+    <giamua>15.000</giamua>
+    <thoidiem>Buổi Tối</thoidiem>
+    <trocap>0</trocap>
+    <tietkiem>0</tietkiem>
+  </ngay>
+</chitieuhangngay>
